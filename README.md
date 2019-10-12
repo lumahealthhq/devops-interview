@@ -1,9 +1,8 @@
 # Luma Technical Interview
 
-
 ## Interview Task
 
-Create a slack bot that will manage AWS ec2 instances. The slack bot should offer commands to create, destroy, start and stop and get status (running / stopped) 
+Create a slack bot that will manage AWS ec2 instances. The slack bot should offer commands to manage a new or existing ec2 instance.
 
 ## Deliverables
 
