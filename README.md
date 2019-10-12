@@ -6,8 +6,8 @@ Create a slack bot that will manage AWS ec2 instances. The slack bot should offe
 
 ## Deliverables
 
-Description on how to install and run the bot
-Demo slack account where we can test with the cmds
+* Description on how to install and run the slack bot
+* A running bot on a slack account where we can test with the cmds below
 
 ## Bot commands
 
